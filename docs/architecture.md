@@ -78,4 +78,4 @@ area until the information has expired.
 Requesting information of other agents and providing information to other agents are both actions. Receiving information
 from other agents may be an action as well.
 
-> Initially, receiving information may be free for agents to do. It depends I guess.
+> Initially, receiving information may be free for agents to do. It depends on the goals of the project I guess.
