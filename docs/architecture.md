@@ -60,6 +60,8 @@ As an example of subject-based communication; an agent may communicate to other 
 Nearby agents may share a memory of a location of an energy source to the agent. These are examples of subject-based
 communication.
 
+> Actual ants in this situation (at least many species, not all) will request a behavior from nearby ants called "trophylaxis". Ants have that have "social stomachs" can regurgitate food to other ants upon request. This is also typically how food is transfered to the queen.
+
 Open-ended communication is when an agent makes a request for other nearby agent memories. In this case, it is up to
 nearby agents if they should respond, and what information to provide in their response.
 
