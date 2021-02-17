@@ -27,3 +27,7 @@ TODO - find some
 Resources describing ant colony behaviour.
 
 TODO
+
+### Potential Source of Libraries ###
+https://arewegameyet.rs/
+
